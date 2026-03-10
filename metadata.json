@@ -1,0 +1,5 @@
+{
+  "name": "Batch Image Cropper",
+  "description": "Easily crop multiple images to 1:1, 3:4, or 9:16 aspect ratios in one go.",
+  "requestFramePermissions": []
+}
